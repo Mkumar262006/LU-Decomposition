@@ -15,11 +15,13 @@ To write a program to find the LU Decomposition of a matrix.
 4. We print the output of L and U
     
 (ii) To find the LU Decomposition of a matrix
+ ```
  1.We import lu_factor and lu_solve from linalg module in scipy module
  2.Then we initialize a list in the name of arr and ask input from the user
  3.Then we initialize a list in the name of constant and ask input from the user
  4. We initialize result as  factorization of A and initialze solution with value of lu_solve method on (result,B)  
  5.Now we print the solution
+```
 ## Program:
 (i) To find the L and U matrix
 ```
